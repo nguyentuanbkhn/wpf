@@ -1,0 +1,13 @@
+﻿<Page x:Class="ContactsApp.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Page 2">
+    <Grid>
+        <!-- DataGrid để hiển thị danh sách liên hệ -->
+        <DataGrid Name="ContactsListView" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="20"
+                  AutoGenerateColumns="True" IsReadOnly="True" />
+
+        <!-- Nút để quay lại Page 1 -->
+        <Button Content="Back to Page 1" HorizontalAlignment="Center" VerticalAlignment="Bottom" Click="NavigateToPage1"/>
+    </Grid>
+</Page>

@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\phonenumbervalidatorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\phonenumbervalidatorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|c:\\users\\admin\\source\\repos\\contactsapp\\contactsapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FA9869AE-208E-43C0-923B-1278FA05458B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\obj\\Debug\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContactsApp\\obj\\Debug\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhoneNumberValidatorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\PhoneNumberValidatorConverter.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\PhoneNumberValidatorConverter.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\PhoneNumberValidatorConverter.cs",
+              "RelativeToolTip": "ContactsApp\\PhoneNumberValidatorConverter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:32:46.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\RelayCommand.cs",
+              "RelativeToolTip": "ContactsApp\\RelayCommand.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:55:00.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\ViewModel.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\ViewModel.cs",
+              "RelativeToolTip": "ContactsApp\\ViewModel.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAA5wJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:01:56.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\Styles.xaml",
+              "RelativeDocumentMoniker": "ContactsApp\\Styles.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\Styles.xaml",
+              "RelativeToolTip": "ContactsApp\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T08:24:12.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ContactsApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:28:32.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\Page2.xaml.cs",
+              "RelativeToolTip": "ContactsApp\\Page2.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:50:24.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\Page2.xaml",
+              "RelativeDocumentMoniker": "ContactsApp\\Page2.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\Page2.xaml",
+              "RelativeToolTip": "ContactsApp\\Page2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T04:50:06.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\Page1.xaml.cs",
+              "RelativeToolTip": "ContactsApp\\Page1.xaml.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:49:19.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\Page1.xaml",
+              "RelativeDocumentMoniker": "ContactsApp\\Page1.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\Page1.xaml",
+              "RelativeToolTip": "ContactsApp\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T04:49:00.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ContactsApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\MainWindow.xaml",
+              "RelativeToolTip": "ContactsApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T02:28:34.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\App.xaml.cs",
+              "RelativeToolTip": "ContactsApp\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:37:07.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\App.xaml",
+              "RelativeDocumentMoniker": "ContactsApp\\App.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\App.xaml",
+              "RelativeToolTip": "ContactsApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T02:28:47.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\App.config",
+              "RelativeDocumentMoniker": "ContactsApp\\App.config",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\App.config",
+              "RelativeToolTip": "ContactsApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-20T03:28:12.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\obj\\Debug\\App.g.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\obj\\Debug\\App.g.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ContactsApp\\ContactsApp\\obj\\Debug\\App.g.cs",
+              "RelativeToolTip": "ContactsApp\\obj\\Debug\\App.g.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:44:16.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
